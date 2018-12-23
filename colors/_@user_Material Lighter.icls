@@ -4,7 +4,7 @@
     <property name="created">2018-12-22T11:38:37</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.2.0.0</property>
-    <property name="modified">2018-12-23T15:24:49</property>
+    <property name="modified">2018-12-23T16:26:43</property>
     <property name="originalScheme">Material Lighter</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -475,18 +475,28 @@
     </option>
     <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ab51ba" />
+        <option name="FOREGROUND" value="65306e" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD3_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="f9795" />
+        <option name="FOREGROUND" value="14296" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD4_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="c93b48" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CUSTOM_NUMBER_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="893c27" />
+      </value>
+    </option>
+    <option name="CUSTOM_STRING_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="494949" />
       </value>
     </option>
     <option name="Class">
@@ -2329,7 +2339,7 @@
     </option>
     <option name="PHP_CLASS">
       <value>
-        <option name="FOREGROUND" value="f6a434" />
+        <option name="FOREGROUND" value="32367b" />
       </value>
     </option>
     <option name="PHP_COMMA">
@@ -2353,7 +2363,7 @@
     </option>
     <option name="PHP_DOC_COMMENT_ID">
       <value>
-        <option name="FOREGROUND" value="aabfc9" />
+        <option name="FOREGROUND" value="8ea0a8" />
       </value>
     </option>
     <option name="PHP_DOC_TAG">
@@ -2384,13 +2394,13 @@
     </option>
     <option name="PHP_HEREDOC_CONTENT">
       <value>
-        <option name="FOREGROUND" value="91b859" />
+        <option name="FOREGROUND" value="f00500" />
       </value>
     </option>
     <option name="PHP_HEREDOC_ID">
       <value>
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="808080" />
+        <option name="EFFECT_COLOR" value="333333" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -2416,7 +2426,7 @@
     </option>
     <option name="PHP_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="7c4dff" />
+        <option name="FOREGROUND" value="a71d5d" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -2460,8 +2470,7 @@
     </option>
     <option name="PHP_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="39adb5" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="2c838a" />
       </value>
     </option>
     <option name="PHP_STATIC_METHOD">
@@ -2482,7 +2491,7 @@
     </option>
     <option name="PHP_VAR">
       <value>
-        <option name="FOREGROUND" value="c17e70" />
+        <option name="FOREGROUND" value="333333" />
       </value>
     </option>
     <option name="PHP_VAR_VAR">
